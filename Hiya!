@@ -1,3 +1,9 @@
 print("--------")
-input("Hiya! How do ya do stranger? \n => ")
+nick=input("What shall I call ye? \n => ")
+str= "x"
+if type(nick) == type(str):
+ print(f"Hiya {nick}!")
+else:
+  print("what r u?")
+  print(type(nick))
 print("--------")
