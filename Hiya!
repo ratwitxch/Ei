@@ -1,0 +1,3 @@
+print("--------")
+input("Hiya! How do ya do stranger? \n => ")
+print("--------")
